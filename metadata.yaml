@@ -1,0 +1,26 @@
+_repo: Catalogue-of-the-Gallery-of-Art-of-The-New-York-Historical-Society_45744
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45744-h/images/cover.jpg
+creator:
+  author:
+    agent_name: New-York Historical Society
+    alias: New York Historical Association
+    gutenberg_agent_id: '42991'
+    url: http://www.gutenberg.org/2009/agents/42991
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45744'
+  lccn: '16017911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- New York (State) -- New York -- Catalogs'
+title: Catalogue of the Gallery of Art of The New York Historical Society
+url: http://www.gutenberg.org/ebooks/45744
